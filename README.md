@@ -112,7 +112,7 @@ docker run -p 5000:5000 house-price-prediction
 ## 📡 API Usage
 
 ### Web Interface
-Visit the live application at: https://web-production-c2dac.up.railway.app/predict
+Visit the live application at: https://web-production-c2dac.up.railway.app/
 
 ### REST API Endpoint
 
