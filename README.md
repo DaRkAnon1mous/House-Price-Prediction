@@ -4,7 +4,7 @@ A machine learning web application that predicts house prices in California usin
 
 ## 🚀 Live Demo
 
-**[Try the Application](https://web-production-c2dac.up.railway.app/)**
+**[Try the Application]([https://web-production-c2dac.up.railway.app/](https://huggingface.co/spaces/DaRkAnon1mous/House_Price_Prediction))**
 
 ## 📋 Project Overview
 
